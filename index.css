@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+.bg {
+  background-image: linear-gradient(rgb(227, 19, 206), rgb(16, 147, 223));
+  height: 775px;
+  font-family: poppins;
+}
+.container {
+  margin: auto;
+  width: 300px;
+  height: 550px;
+  background-color: white;
+  border: 3px solid white;
+  padding: 15px;
+  margin-top: 6rem;
+}
+.h {
+  text-align: center;
+}
+
+input {
+  width: 85%;
+  padding: 12px 30px;
+  border: 1px solid #ccc;
+  background-color: #ccc;
+  box-sizing: border-box;
+  margin-top: 20px;
+  margin-left: 28px;
+  
+}
+.hi {
+  display: flex;
+}
+label {
+  margin-top: 17px;
+  color: #ccc;
+  margin-left: 3px;
+  font-family: poppins;
+}
+.checkbox {
+  cursor: pointer;
+  width: 25px;
+  accent-color: #ea047e;
+}
+button {
+  border: none;
+  background-color: #ea047e;
+  color: white;
+  font-weight: 600;
+  padding: 13px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 25px;
+  width: 255px;
+  margin-left: 30px;
+}
+p {
+  text-align: center;
+  color: #ccc;
+  margin-top: 10%;
+}
+.social-icons-1 {
+  background-color: white;
+  border: 1px solid #ccc;
+  width: 110px;
+}
+.social-icons-2{
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 110px;
+    margin-right: 20px;
+  }
+a {
+  text-decoration: none;
+  display: flex;
+  font-size: 14px;
+  margin-left: -15px;
+}
+.so {
+  display: flex;
+  margin-top: -25px;
+  justify-content: space-around;
+}
+i {
+  padding-right: 6px;
+}
+.last {
+  color: #ccc;
+  margin-top: 55px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Icon-inside {
+  position: relative;
+}
+
+.Icon-inside i {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 10px 10px;
+  margin-left: 25px;
+  margin-top: 23px;
+  color: #F5F5F5;
+}
+
+.Icon-inside-1 {
+  position: relative;
+}
+
+.Icon-inside-1 i {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 10px 10px;
+  margin-left: 20px;
+  margin-top: 23px;
+  color: #F5F5F5;
+}
+img{
+    margin-right: 5px;
+}
